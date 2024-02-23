@@ -4,7 +4,7 @@
     Description: This is a simple file organizer. It organizes the files
         in a given directory in to categories like Documents, Videos,
         Pictures etc.
-    Usage: python organize.py
+    Usage: python3 organize.py
     
     Permissions: Feels free to share modify and redistribute the code to
         your liking.
