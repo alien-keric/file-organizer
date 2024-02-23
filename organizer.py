@@ -1,5 +1,5 @@
 '''
-    Author: alienX
+    Author: alienX and Jehoshaphat Obol
     Date: 23/02/2024
     Description: This is a simple file organizer. It organizes the files
         in a given directory in to categories like Documents, Videos,
